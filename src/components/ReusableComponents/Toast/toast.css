@@ -1,0 +1,19 @@
+.toast-dialog-container{
+    display: flex;
+    flex-direction: row;
+    padding: 12px 26px;
+    gap: 12px;
+    border-left: 10px solid #FFAF38;
+    border-top: 2px solid #FFAF38;
+    border-bottom: 2px solid #FFAF38;
+    border-right: 2px solid #FFAF38;
+    border-radius: 6px;
+    text-align: left;
+    align-items: flex-start;
+    font-size: 14px;
+}
+.toast-message{
+   display: flex;
+   flex-direction: column;
+   align-items: flex-start;
+}
